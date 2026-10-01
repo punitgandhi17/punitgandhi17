@@ -1,6 +1,6 @@
 # Hi, I'm Punit Gandhi 👋
 
-### Python Developer | Data & Automation | Backend Development
+### Python Developer | Backend Development
 
 I build practical applications using Python, data analysis,
 databases, and backend technologies.
