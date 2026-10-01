@@ -81,4 +81,4 @@ or start a discussion.
 
 ## 📫 Connect With Me
 
-[https://in.linkedin.com/in/punit-gandhi-17m2006] • [punitgandhi-portfolio.netlify.app] • [punitgandhi17032006@gmail.com]
+[https://in.linkedin.com/in/punit-gandhi-17m2006] • [https://punitgandhi-portfolio.netlify.app/] • [punitgandhi17032006@gmail.com]
