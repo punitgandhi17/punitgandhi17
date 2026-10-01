@@ -62,7 +62,6 @@ I'm currently improving my skills in:
 - REST APIs
 - Database design
 - Data analysis
-- Open-source development
 
 ---
 
