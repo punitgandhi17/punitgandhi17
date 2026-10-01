@@ -26,9 +26,6 @@ Pandas • NumPy • Matplotlib
 ### Database
 MySQL • PostgreSQL
 
-### Tools
-Git • GitHub • VS Code
-
 ---
 
 ## 🚀 Featured Projects
